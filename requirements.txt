@@ -1,5 +1,6 @@
-asgiref==3.2.3
-Django==3.1.13
-pkg-resources==0.0.0
-pytz==2019.3
-sqlparse==0.3.0
+asgiref
+pytz
+sqlparse
+Django==4.2.11
+django-browser-reload==1.12.1
+python-dotenv==1.0.1
